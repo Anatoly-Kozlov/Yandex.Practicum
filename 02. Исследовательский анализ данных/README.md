@@ -14,6 +14,5 @@
 
 ### Используемый стек инструментов
 
-- python
 - pandas
 - matplotlib
