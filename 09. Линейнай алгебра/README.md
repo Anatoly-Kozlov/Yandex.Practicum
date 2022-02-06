@@ -13,7 +13,6 @@
 
 ### Используемый стек инструментов
 
-- python
 - pandas
 - sklearn
 - numpy
