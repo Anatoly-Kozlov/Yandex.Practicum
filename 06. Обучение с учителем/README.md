@@ -16,7 +16,6 @@
 
 ### Используемый стек инструментов
 
-- python
 - pandas
 - sklearn
 - matplotlib
